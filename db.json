@@ -1,12 +1,14 @@
 {
-  "data": {
-    "user": {
-      "token": "293irhsidjni23hro2ine283r93ui"
+  "user": {
+    "data": {
+      "user": {
+        "token": "293irhsidjni23hro2ine283r93ui"
+      },
+      "status": 200,
+      "statusText": "OK"
     },
-    "status": 200,
-    "statusText": "OK"
-  },
-  "headers": {},
-  "config": {},
-  "request": {}
+    "headers": {},
+    "config": {},
+    "request": {}
+  }
 }
