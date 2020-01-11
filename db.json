@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": {
+    "user": {
+      "token": "293irhsidjni23hro2ine283r93ui"
+    },
+    "status": 200,
+    "statusText": "OK"
+  },
+  "headers": {},
+  "config": {},
+  "request": {}
 }
